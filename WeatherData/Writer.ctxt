@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Writer
+comment1.params=temp\ humidity
+comment1.target=void\ writer(java.lang.String,\ java.lang.String)
+numComments=2
