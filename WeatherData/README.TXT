@@ -11,3 +11,5 @@ HOW TO START THIS PROJECT: Open the BLUEJ editor and load the project into it on
 AUTHORS: Ryan Alloway
 USER INSTRUCTIONS: to view the code open the different .java files. Make sure to add a username and password to login to gmail
 
+This was written in BLUEJ IDE, in order to run the program you must use blueJ ide and import the project
+
